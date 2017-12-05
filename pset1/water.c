@@ -1,7 +1,7 @@
 /*
     water.c
 
-    Author : Cecilia Flora Barry  - cecebarry4@hotmail.com
+    Author : Ce Barry  - cecebarry4@hotmail.com
 
     This file is for  pset1 of CS50 - water.
 */
